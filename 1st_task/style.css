@@ -1,0 +1,41 @@
+nav{
+  color:whitesmoke;
+  font-size: 2rem;
+  font-family: Arial
+}
+
+h1{
+    color:blue;
+    font-size: 2rem;
+    font-family: Arial
+}
+h2{
+  color:blue;
+  font-size: 2rem;
+  font-family: Arial
+}
+h3{
+  color:blue;
+  font-size: 2rem;
+  font-family: Arial
+}
+ul{
+ background-color: black;
+  color:white;
+  
+}
+ol{
+  background-color:#062F4F; 
+}    
+
+li{
+  background-color: #B82601;
+} 
+a{
+   color:white;
+}
+a:hover{
+  color:hotpink;
+}
+     
+  
